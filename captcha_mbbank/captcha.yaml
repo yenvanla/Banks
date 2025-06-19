@@ -1,0 +1,46 @@
+train: ../images/train
+val: ../images/val
+
+nc: 41
+names:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - A
+  - B
+  - C
+  - D
+  - E
+  - G
+  - H
+  - K
+  - M
+  - N
+  - P
+  - Q
+  - U
+  - V
+  - Y
+  - Z
+  - a
+  - b
+  - c
+  - d
+  - e
+  - g
+  - h
+  - k
+  - m
+  - n
+  - p
+  - q
+  - t
+  - u
+  - v
+  - y
+  - z
